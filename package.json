@@ -2,10 +2,11 @@
   "name": "gh-repo-settings",
   "module": "index.ts",
   "type": "module",
+  "private": true,
   "devDependencies": {
     "@types/bun": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^7"
   }
 }
